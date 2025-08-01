@@ -1,0 +1,806 @@
+Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit.
+The result of a measurement of a physical quantity is expressed by a number (or numerical measure) accompanied by a unit.
+The units for the fundamental or base quantities are called fundamental or base units.
+Such units obtained for the derived quantities are called derived units.
+A complete set of these units, both the base units and derived units, is known as the system of units.
+The CGS system uses centimetre, gram and second as its base units.
+The FPS system uses foot, pound and second as its base units.
+The MKS system uses metre, kilogram and second as its base units.
+The SI system was developed by the Bureau International des Poids et Mesures (BIPM) in 1971 and revised in 2018.
+The SI system uses a decimal-based structure that simplifies unit conversion.
+There are seven base units in SI: metre (m), kilogram (kg), second (s), ampere (A), kelvin (K), mole (mol), and candela (cd).
+The unit of plane angle dθ is defined as dθ = ds / r, where ds is the length of the arc and r is the radius.
+The unit of solid angle dΩ is defined as dΩ = dA / r², where dA is the intercepted area and r is the radius.
+The unit for plane angle is the radian (rad), and for solid angle it is the steradian (sr).
+Plane angle and solid angle are dimensionless quantities.
+If ds = 1 m and r = 1 m, then dθ = 1 rad.
+If dA = 1 m² and r = 1 m, then dΩ = 1 sr.
+1 rad = angle subtended when arc length equals the radius of the circle.
+1 sr = solid angle subtended when surface area equals the square of the radius.
+The solid angle subtended by a complete sphere is 4π sr.
+The circumference of a circle is given by C = 2πr.
+The area of a circle is given by A = πr².
+The volume of a sphere is given by V = (4/3)πr³.
+The surface area of a sphere is A = 4πr².
+The base unit of length in SI is the metre, represented by the symbol m.
+The base unit of mass in SI is the kilogram, represented by the symbol kg.
+The base unit of time in SI is the second, represented by the symbol s.
+The base unit of electric current in SI is the ampere, represented by the symbol A.
+The base unit of thermodynamic temperature in SI is the kelvin, represented by the symbol K.
+The base unit of the amount of substance in SI is the mole, represented by the symbol mol.
+The base unit of luminous intensity in SI is the candela, represented by the symbol cd.
+The SI unit of force is the newton, defined as 1 newton = 1 kg·m/s².
+The SI unit of energy is the joule, defined as 1 joule = 1 newton·metre = 1 kg·m²/s².
+The SI unit of pressure is the pascal, defined as 1 pascal = 1 newton/m² = 1 kg/(m·s²).
+The SI unit of frequency is the hertz, defined as 1 hertz = 1 cycle per second = 1/s.
+The SI unit of power is the watt, defined as 1 watt = 1 joule/second = 1 kg·m²/s³.
+The SI unit of electric charge is the coulomb, defined as 1 coulomb = 1 ampere·second.
+The SI unit of potential difference is the volt, defined as 1 volt = 1 watt/ampere = 1 kg·m²/(s³·A).
+The SI unit of resistance is the ohm, defined as 1 ohm = 1 volt/ampere = 1 kg·m²/(s³·A²).
+1 radian is the angle subtended at the center of a circle by an arc whose length is equal to the radius.
+1 steradian is the solid angle subtended at the center of a sphere by an area of the surface equal to r².
+The total solid angle subtended by a sphere is 4π steradian.
+The unit of speed in SI is metre per second, written as m/s.
+The unit of acceleration in SI is metre per second squared, written as m/s².
+The unit of work in SI is the joule, which is also used as the unit of energy.
+The unit of momentum in SI is kilogram·metre per second, written as kg·m/s.
+The unit of impulse in SI is newton·second, written as N·s.
+The metre is defined by the fixed value of the speed of light in vacuum c = 299792458 m/s.
+The kilogram is defined by the fixed value of the Planck constant h = 6.62607015 × 10⁻³⁴ J·s.
+The second is defined by the caesium frequency Δv_Cs = 9192631770 Hz.
+The ampere is defined by the fixed value of the elementary charge e = 1.602176634 × 10⁻¹⁹ C.
+The kelvin is defined by the Boltzmann constant k = 1.380649 × 10⁻²³ J·K⁻¹.
+The mole is defined as containing exactly 6.02214076 × 10²³ elementary entities.
+The candela is defined by the luminous efficacy K_cd = 683 lm/W at frequency 540 × 10¹² Hz.
+1 minute = 60 seconds.
+1 hour = 60 minutes = 3600 seconds.
+1 day = 24 hours = 86400 seconds.
+1 year = 365.25 days ≈ 3.156 × 10⁷ seconds.
+1 degree = (pi / 180) radians.
+1 litre = 1 decimetre cubed = 10⁻³ m³.
+1 tonne = 1000 kilograms.
+1 carat = 200 milligrams.
+1 bar = 0.1 MPa = 10⁵ Pa.
+1 curie = 3.7 × 10¹⁰ s⁻¹.
+1 roentgen = 2.58 × 10⁻⁴ C/kg.
+1 quintal = 100 kilograms.
+1 barn = 10⁻²⁸ m².
+1 are = 100 m².
+1 hectare = 10⁴ m².
+1 atmosphere = 101325 Pa.
+The method of dimensions can sometimes be used to deduce relation among the physical quantities.
+The SI unit of energy is the joule.
+1 joule is equal to 1 kg meter squared per second squared.
+The unit of speed is meter per second.
+Acceleration is the rate of change of velocity with time.
+The dimension of force is [M L T^-2].
+Mass is a fundamental physical quantity.
+The time period of a simple pendulum depends on its length and gravity.
+Scientific notation helps simplify large or small numbers.
+Dimensional analysis is used to check the validity of physical equations.
+The mole is the SI unit of amount of substance.
+Physics is a quantitative science, based on measurement of physical quantities.  
+Certain physical quantities have been chosen as fundamental or base quantities (such as length, mass, time, electric current, thermodynamic temperature, amount of substance, and luminous intensity).  
+Each base quantity is defined in terms of a certain basic, arbitrarily chosen but properly standardised reference standard called unit (such as metre, kilogram, second, ampere, kelvin, mole and candela).  
+The units for the fundamental or base quantities are called fundamental or base units.  
+Other physical quantities, derived from the base quantities, can be expressed as a combination of the base units and are called derived units.  
+A complete set of units, both fundamental and derived, is called a system of units.  
+The International System of Units (SI) based on seven base units is at present internationally accepted unit system and is widely used throughout the world.  
+The SI units are used in all physical measurements, for both the base quantities and the derived quantities obtained from them.  
+Certain derived units are expressed by means of SI units with special names (such as joule, newton, watt, etc).  
+The SI units have well defined and internationally accepted unit symbols (such as m for metre, kg for kilogram, s for second, A for ampere, N for newton etc).  
+Physical measurements are usually expressed for small and large quantities in scientific notation, with powers of 10.  
+Scientific notation and the prefixes are used to simplify measurement notation and numerical computation, giving indication to the precision of the numbers.  
+Certain general rules and guidelines must be followed for using notations for physical quantities and standard symbols for SI units, some other units and SI prefixes for expressing properly the physical quantities and measurements.  
+In computing any physical quantity, the units for derived quantities involved in the relationships are treated as though they were algebraic quantities till the desired units are obtained.  
+In measured and computed quantities proper significant figures only should be retained.  
+Rules for determining the number of significant figures, carrying out arithmetic operations with them, and ‘rounding off’ the uncertain digits must be followed.  
+The dimensions of base quantities and combination of these dimensions describe the nature of physical quantities.  
+Dimensional analysis can be used to check the dimensional consistency of equations, deducing relations among the physical quantities, etc.  
+A dimensionally consistent equation need not be actually an exact (correct) equation, but a dimensionally wrong or inconsistent equation must be wrong.
+Motion is common to everything in the universe.  
+We walk, run and ride a bicycle.  
+Even when we are sleeping, air moves into and out of our lungs and blood flows in arteries and veins.
+We see leaves falling from trees and water flowing down a dam.
+Automobiles and planes carry people from one place to the other.
+The earth rotates once every twenty-four hours and revolves round the sun once in a year.
+The sun itself is in motion in the Milky Way, which is again moving within its local group of galaxies.
+Motion is change in position of an object with time.
+In this chapter, we shall learn how to describe motion.
+We develop the concepts of velocity and acceleration.
+We shall confine ourselves to motion along a straight line, also known as rectilinear motion.
+For rectilinear motion with uniform acceleration, simple equations can be obtained.
+To understand the relative nature of motion, we introduce the concept of relative velocity.
+In our discussions, we treat the objects in motion as point objects.
+This approximation is valid when the size of the object is much smaller than the distance it moves.
+In many real-life situations, objects can be considered point-like without much error.
+In Kinematics, we describe motion without explaining its causes.
+The causes of motion are discussed in the next chapter.
+The average velocity tells us how fast an object moves over a time interval.
+It does not tell us how fast it moves at different instants.
+Instantaneous velocity at time t is defined as the limit of average velocity as the time interval becomes infinitesimally small.
+In mathematical terms, velocity v = lim(delta t -> 0) delta x / delta t.
+This is also written as dx/dt in calculus, representing the rate of change of position with time.
+We can use graphical or numerical methods to determine instantaneous velocity.
+Suppose we want to find velocity at t = 4 s.
+We take delta t = 2 s centered at t = 4 s and compute average velocity over that interval.
+Then, we reduce delta t and repeat the computation.
+In the limit, the average velocity approaches the instantaneous velocity.
+For the graph x = 0.08 * t^3, we can compute delta x / delta t numerically for decreasing delta t values.
+As delta t decreases, the average velocity approaches 3.84 m/s at t = 4.0 s.
+This is the instantaneous velocity at that instant.
+Graphical method is not always convenient for determining instantaneous velocity.
+It is easier to calculate velocity using position data or an exact function of time.
+We compute delta x / delta t for smaller intervals or use calculus to find dx/dt.
+Example: x = a + b * t^3 with a = 8.5 m and b = 2.5 m/s^2.
+Velocity v = d(x)/d(t) = 3 * b * t^2.
+At t = 0, velocity v = 0 m/s.
+At t = 2.0 s, v = 3 * 2.5 * (2.0)^2 = 30 m/s.
+Average velocity from t = 2.0 s to t = 4.0 s = [x(4.0) - x(2.0)] / 2.0.
+x(4.0) = a + b * 64 = a + 160.
+x(2.0) = a + b * 8 = a + 20.
+Difference = 140, so average velocity = 70 m/s.
+Instantaneous speed is the magnitude of velocity.
+A velocity of +24.0 m/s and -24.0 m/s both have a speed of 24.0 m/s.
+Instantaneous speed equals magnitude of instantaneous velocity.
+Average speed over a finite time is greater than or equal to magnitude of average velocity.
+The velocity of an object generally changes during its motion.
+To describe this change, we need to decide whether to use the rate of change of velocity with time or with distance.
+Initially, scientists believed that velocity changed with distance.
+Through experiments with falling objects and inclined planes, Galileo concluded that velocity changes uniformly with time, not with distance.
+Galileo’s studies revealed that the rate of change of velocity with time is constant for all objects in free fall.
+In contrast, the rate of change of velocity with distance decreases as the falling distance increases.
+This insight led to the definition of acceleration as the rate of change of velocity with respect to time.
+Average acceleration is defined as the change in velocity divided by the time interval during which the change occurs.
+Mathematically, average acceleration is given by bar(a) = (v_2 - v_1) / (t_2 - t_1).
+Here, v_1 and v_2 represent velocities at times t_1 and t_2, respectively.
+Acceleration has units of metre per second squared (m/s^2) in the SI system.
+Graphically, average acceleration is the slope of the straight line connecting two points on a velocity-time graph.
+Instantaneous acceleration is defined as the limit of average acceleration as the time interval approaches zero.
+Using calculus, it is expressed as a = dv/dt.
+The slope of the tangent at any point on a velocity-time graph gives the instantaneous acceleration at that moment.
+Since velocity has both magnitude and direction, any change in either results in acceleration.
+Acceleration can arise from changes in speed, direction, or both.
+Like velocity, acceleration can be positive, negative, or zero.
+In position-time graphs, positive acceleration curves upward, negative acceleration curves downward, and zero acceleration gives a straight line.
+In this chapter, we focus on motion with constant acceleration.
+When acceleration is constant, the average and instantaneous acceleration are equal.
+If an object starts with velocity v_0 at time t = 0 and has velocity v at time t, the equation becomes v = v_0 + a * t.
+Velocity-time graphs show different shapes for different acceleration cases.
+A line sloping upwards indicates motion in a positive direction with positive acceleration.
+A downward-sloping line indicates motion in a positive direction with negative acceleration.
+A negative slope in the negative velocity region represents motion in a negative direction with negative acceleration.
+If an object changes direction at time t_1, the velocity-time graph shows a sign change across that point.
+The area under the velocity-time curve represents the displacement during a given time interval.
+For constant velocity, this area is a rectangle with height equal to the velocity and width equal to the time.
+Hence, displacement equals velocity multiplied by time, or u * T.
+This works because the units on the velocity and time axes multiply algebraically to give distance.
+In real situations, velocity and acceleration cannot change instantaneously.
+Therefore, graphs in real physics are smooth and differentiable everywhere.
+Sharp kinks in graphs are only approximations and not physically realistic.
+For uniformly accelerated motion, we can derive equations that relate displacement x, time t, initial velocity v_0, final velocity v and acceleration a.
+The equation v = v_0 + a * t relates the final velocity to initial velocity and acceleration over time.
+This relationship is represented graphically as a straight line in a velocity-time graph.
+The area under the velocity-time curve gives the displacement of the object during the motion.
+This area consists of a triangle and a rectangle between time t = 0 and t.
+The area under the curve equals 1/2 * (v_0 + v) * t.
+Since v - v_0 = a * t, we can express v as v_0 + a * t.
+Substituting this into the area formula gives x = v_0 * t + 1/2 * a * t^2.
+This is one of the equations of motion for constant acceleration.
+Another expression for displacement is x = [(v + v_0) / 2] * t.
+This formula uses the average of initial and final velocities to compute displacement.
+Average velocity for constant acceleration is (v + v_0) / 2.
+Using v = v_0 + a * t, we can express t = (v - v_0) / a.
+Substituting this into x = [(v + v_0) / 2] * t gives x = (v^2 - v_0^2) / (2 * a).
+Rearranging the equation, we get v^2 = v_0^2 + 2 * a * x.
+This is the third equation of motion for uniformly accelerated motion.
+Thus, we have three important kinematic equations for motion with constant acceleration.
+The first equation is v = v_0 + a * t.
+The second equation is x = v_0 * t + 1/2 * a * t^2.
+The third equation is v^2 = v_0^2 + 2 * a * x.
+These equations connect five physical quantities: v_0, v, a, t and x.
+The above equations assume the position x = 0 at time t = 0.
+To generalize the equations for arbitrary initial position x_0, we use x - x_0 instead of x.
+Then the equations become: v = v_0 + a * t.
+x = x_0 + v_0 * t + 1/2 * a * t^2.
+v^2 = v_0^2 + 2 * a * (x - x_0).
+These generalized forms are valid when the object starts from a position other than the origin.
+By definition, a = dv / dt.
+Integrating both sides gives v - v_0 = a * t.
+Thus, v = v_0 + a * t.
+Since v = dx / dt, integrating both sides gives x - x_0 = integration(0, t, v dt).
+Substitute v = v_0 + a * t to get x - x_0 = v_0 * t + 1/2 * a * t^2.
+So, x = x_0 + v_0 * t + 1/2 * a * t^2.
+We can also write a = dv / dt = dv / dx * dx / dt = v * dv / dx.
+Therefore, v * dv = a * dx.
+Integrating both sides gives v^2 - v_0^2 = a * (x - x_0).
+So, v^2 = v_0^2 + 2 * a * (x - x_0).
+This method works even for non-uniform acceleration.
+A ball is thrown upward with v_0 = 20 m/s from a height of 25 m.
+Take upward direction as positive y-axis and origin at the ground.
+Use v^2 = v_0^2 + 2 * a * (y - y_0) to find max height.
+Set v = 0 and a = -10 m/s^2 to get (y - y_0) = 20 m.
+Thus, the ball rises 20 m above the launch point.
+To find total time before hitting ground, split motion in two parts.
+Time to reach top: 0 = 20 - 10 * t_1 gives t_1 = 2 s.
+From top, ball falls from height 45 m with v_0 = 0 and a = -10 m/s^2.
+Use 0 = 45 + 1/2 * (-10) * t_2^2 to get t_2 = 3 s.
+Total time before hitting ground is t = t_1 + t_2 = 5 s.
+Alternatively, use y = y_0 + v_0 * t + 1/2 * a * t^2.
+Put y = 0, y_0 = 25, v_0 = 20, a = -10 and solve: 0 = 25 + 20 * t - 5 * t^2.
+The quadratic solution gives t = 5 s.
+An object in free fall starts from rest and moves under gravity.
+Assume upward direction as positive and a = -g = -9.8 m/s^2.
+Initial position is y = 0 and v_0 = 0.
+Velocity after time t is v = -9.8 * t m/s.
+Displacement is y = -1/2 * g * t^2 = -4.9 * t^2 m.
+Also, v^2 = -2 * g * y = -19.6 * y m^2/s^2.
+These are the equations of motion for free fall.
+Galileo observed a pattern in distances during equal time intervals of free fall.
+The equation y = -1/2 * g * t^2 governs the motion from rest.
+Divide time into equal intervals tau.
+At t = 0, y = 0.
+At t = tau, y = -y_0 where y_0 = 1/2 * g * tau^2.
+At t = 2 * tau, y = -4 * y_0.
+At t = 3 * tau, y = -9 * y_0.
+Successive distances are y_0, 3 * y_0 - y_0 = 2 * y_0, and so on.
+This gives the ratio 1:3:5:7 for distances in each interval.
+This is Galileo's law of odd numbers.
+An object is said to be in motion if its position changes with time.
+The position of the object can be specified with reference to a conveniently chosen origin.
+For motion in a straight line, position to the right of the origin is taken as positive and to the left as negative.
+The average speed of an object is greater than or equal to the magnitude of the average velocity over a given time interval.
+Instantaneous velocity or simply velocity is defined as the limit of the average velocity as the time interval delta t becomes infinitesimally small.
+v = lim(t -> 0) delta x / delta t = dx / dt
+The velocity at a particular instant is equal to the slope of the tangent drawn on the position-time graph at that instant.
+Average acceleration is the change in velocity divided by the time interval during which the change occurs.
+a = delta v / delta t
+Instantaneous acceleration is defined as the limit of the average acceleration as the time interval delta t goes to zero.
+a = lim(delta t -> 0) delta v / delta t = dv / dt
+The acceleration of an object at a particular time is the slope of the velocity-time graph at that instant of time.
+For uniform motion, acceleration is zero.
+The x-t graph is a straight line inclined to the time axis.
+The v-t graph is a straight line parallel to the time axis.
+For motion with uniform acceleration, the x-t graph is a parabola.
+For motion with uniform acceleration, the v-t graph is a straight line inclined to the time axis.
+The area under the velocity-time curve between times t_1 and t_2 is equal to the displacement of the object during that interval of time.
+For objects in uniformly accelerated rectilinear motion, five quantities are related by simple kinematic equations.
+These five quantities are displacement x, time taken t, initial velocity v_0, final velocity v, and acceleration a.
+The first equation is: v = v_0 + a * t
+The second equation is: x = v_0 * t + 1/2 * a * t^2
+The third equation is: v^2 = v_0^2 + 2 * a * x
+If the position of the object at time t = 0 is 0, then x refers to displacement.
+If the object starts at position x_0, then x is replaced by (x - x_0) in the equations above.
+In the last chapter we developed the concepts of position, displacement, velocity, and acceleration needed to describe the motion of an object along a straight line.
+We found that the directional aspect of these quantities can be handled using + and - signs, since in one dimension only two directions are possible.
+To describe the motion of an object in two dimensions or three dimensions, we need to use vectors.
+We need vectors to describe position, displacement, velocity, and acceleration in a plane or space.
+Therefore, it is first necessary to learn the language of vectors.
+What is a vector?
+How do we add, subtract, and multiply vectors?
+What is the result of multiplying a vector by a real number?
+We shall learn these to use vectors for defining velocity and acceleration in a plane.
+We will then discuss the motion of an object in a plane.
+As a simple case of motion in a plane, we will study motion with constant acceleration.
+We will treat projectile motion in detail.
+Circular motion is a familiar class of motion with special significance in daily life.
+We will also discuss uniform circular motion in detail.
+The equations developed in this chapter for motion in a plane can be extended to three-dimensional motion.
+In physics, we classify quantities as scalars or vectors.
+A vector has both magnitude and direction, while a scalar has only magnitude.
+A scalar quantity is specified by a single number along with its unit.
+Examples of scalar quantities include distance, mass, temperature, and time.
+The rules for combining scalars follow ordinary algebra.
+Scalars can be added, subtracted, multiplied, and divided like real numbers.
+For example, if the length and breadth of a rectangle are 1.0 m and 0.5 m, the perimeter is 3.0 m.
+Each side length is a scalar, and the perimeter is also a scalar.
+If the maximum and minimum temperatures on a day are 35.6 C and 24.2 C, their difference is 11.4 C.
+If a uniform solid cube of aluminium with side 10 cm has a mass of 2.7 kg, its volume is 10^-3 m^3.
+The density of the cube is 2.7 * 10^3 kg m^-3, which is also a scalar.
+A vector has both a magnitude and a direction.
+A vector obeys the triangle law or the parallelogram law of addition.
+A vector is specified by a magnitude and a direction.
+Examples of vector quantities include displacement, velocity, acceleration, and force.
+In this book, vectors are represented using boldface symbols such as v.
+Since boldface is difficult to write by hand, vectors are often represented with arrows above letters, like vector(v).
+The magnitude of a vector is called its absolute value.
+The magnitude is represented as magnitude(vector(v)) = v.
+Vectors may be represented by boldface symbols like A, a, p, q, r, x, or y.
+The corresponding magnitudes are represented as plain letters A, a, p, q, r, x, or y.
+To describe the position of an object moving in a plane, we choose a convenient point O as origin.
+Let P and P' be the positions of the object at time t and t', respectively.
+OP is the position vector of the object at time t and is represented by r, i.e., OP = r.
+OP' is the position vector at time t', represented by r'.
+The length of r gives the magnitude and its direction is from O to P.
+If the object moves from P to P', then the vector PP' is the displacement vector from time t to t'.
+The displacement vector is the straight line from the initial to the final position.
+It does not depend on the actual path taken by the object.
+For example, if the object moves from P to Q via PABCQ, PDQ, or PBEFQ, the displacement vector is still PQ.
+Thus, the magnitude of displacement is less than or equal to the actual path length.
+Two vectors A and B are equal if and only if they have the same magnitude and direction.
+Vectors A' and B' may have the same length but are not equal if their directions differ.
+Multiplying a vector A by a positive number lambda changes its magnitude to lambda * |A| but keeps the direction same.
+If lambda = 2, then 2A has twice the magnitude of A and the same direction.
+Multiplying A by a negative number -lambda reverses its direction and multiplies the magnitude by lambda.
+For example, -1 * A and -1.5 * A have opposite directions to A and scaled magnitudes.
+If lambda has physical dimension, then lambda * A has the product of their dimensions.
+For example, velocity vector * time gives displacement vector.
+Vectors obey the triangle or parallelogram law of addition.
+To add vectors A and B graphically, place the tail of B at the head of A.
+Then, draw a vector from the tail of A to the head of B to get A + B = R.
+This is called the head-to-tail or triangle method of vector addition.
+Vector addition is commutative: A + B = B + A.
+Vector addition is associative: (A + B) + C = A + (B + C).
+The sum of two equal and opposite vectors is the null vector: A + (-A) = 0.
+The null vector has zero magnitude and undefined direction.
+Multiplying any vector A by 0 gives the null vector.
+Main properties: A + 0 = A, lambda * 0 = 0, 0 * A = 0.
+The null vector represents zero displacement when an object returns to its starting point.
+Vector subtraction is defined as A - B = A + (-B).
+In graphical subtraction, add -B to A to get the resultant R = A - B.
+Alternatively, use the parallelogram method: place tails of A and B at common origin O.
+Complete the parallelogram and draw the diagonal from O to the opposite corner to get the resultant.
+Triangle and parallelogram methods give the same result.
+Rain falls vertically at 35 m s^-1 and wind blows east to west at 12 m s^-1.
+Rain velocity v_r = 35 m s^-1 downward, wind velocity v_w = 12 m s^-1 westward.
+The resultant velocity R is R = sqrt(35^2 + 12^2) = 37 m s^-1.
+The angle theta made with vertical is tan(theta) = 12 / 35 = 0.343.
+Therefore, theta = tan^-1(0.343) = 19^degree.
+The boy should hold his umbrella at 19^degree from vertical toward the east.
+Let OP and OQ represent the two vectors A and B making an angle theta.
+Then, using the parallelogram method of vector addition, OS represents the resultant vector R: R = A + B.
+SN is normal to OP and PM is normal to OS.
+From the geometry of the figure, OS^2 = ON^2 + SN^2.
+But ON = OP + PN = A + B * cos(theta), and SN = B * sin(theta).
+Therefore, OS^2 = (A + B * cos(theta))^2 + (B * sin(theta))^2.
+So, R^2 = A^2 + B^2 + 2 * A * B * cos(theta).
+Hence, R = sqrt(A^2 + B^2 + 2 * A * B * cos(theta)).
+In triangle OSN, SN = OS * sin(alpha) = R * sin(alpha).
+In triangle PSN, SN = PS * sin(beta) = B * sin(beta).
+Therefore, R * sin(alpha) = B * sin(beta), or R / sin(beta) = B / sin(alpha).
+Similarly, PM = A * sin(alpha) = B * sin(beta), or A / sin(beta) = B / sin(alpha).
+Combining both, we get: R / sin(theta) = B / sin(alpha) = A / sin(beta).
+Using this, sin(alpha) / R = sin(theta) / B, or R = B * sin(alpha) / sin(theta).
+Also, tan(alpha) = SN / (OP + PN) = B * sin(theta) / (A + B * cos(theta)).
+The equation R = sqrt(A^2 + B^2 + 2 * A * B * cos(theta)) gives the magnitude of the resultant.
+The expression tan(alpha) gives its direction.
+The equation R = sqrt(A^2 + B^2 + 2 * A * B * cos(theta)) is known as the Law of Cosines.
+The equation R / sin(theta) = B / sin(alpha) = A / sin(beta) is known as the Law of Sines.
+A motorboat is racing towards north at 25 km/h.
+The water current in that region is 10 km/h in the direction of 60^degree east of south.
+The velocity of the motorboat is v_b = 25, and of the current is v_c = 10.
+Using the parallelogram method of addition, the resultant R is obtained.
+Using the Law of Cosines: R = sqrt(v_b^2 + v_c^2 + 2 * v_b * v_c * cos(120^degree)) = sqrt(25^2 + 10^2 + 2 * 25 * 10 * (-1/2)) = sqrt(625 + 100 - 250) = sqrt(475) ≈ 22 km/h.
+To obtain the direction, we apply the Law of Sines: R / sin(theta) = v_c / sin(phi)
+sin(phi) = (v_c / R) * sin(theta) = (10 * sin(120^degree)) / 21.8 ≈ (10 * 0.866) / 21.8 ≈ 8.66 / 21.8 ≈ 0.397
+phi ≈ 23.4^degree
+In this section we shall see how to describe motion in two dimensions using vectors.
+The position vector r of a particle P located in a plane with reference to the origin of an x-y reference frame is given by: r = x * i_hat + y * j_hat
+Suppose a particle moves along the curve and is at P at time t and P′ at time t′
+Then, the displacement is: delta_r = r′ − r
+We can write: delta_r = (x′ * i_hat + y′ * j_hat) − (x * i_hat + y * j_hat) = delta_x * i_hat + delta_y * j_hat
+where delta_x = x′ − x, delta_y = y′ − y
+The average velocity bar(v) of an object is the ratio of the displacement and the corresponding time interval: bar(v) = delta_r / delta_t = (delta_x / delta_t) * i_hat + (delta_y / delta_t) * j_hat
+So, bar(v) = bar(v)_x * i_hat + bar(v)_y * j_hat
+Since bar(v) = delta_r / delta_t, the direction of the average velocity is the same as that of delta_r
+The instantaneous velocity is given by the limit: v = lim (delta_t -> 0) (delta_r / delta_t) = dr / dt
+As delta_t -> 0, delta_r -> 0, the direction of velocity v is tangential to the path at that point and in direction of motion
+We can express v in component form: v = dr / dt = v_x * i_hat + v_y * j_hat
+where v_x = dx / dt, v_y = dy / dt
+If x and y are known as functions of time, then v_x and v_y can be computed
+The magnitude of v is: v = sqrt(v_x^2 + v_y^2)
+The direction of v is given by: tan(theta) = v_y / v_x, or theta = tan^(-1)(v_y / v_x)
+The acceleration is the limiting value of the average acceleration as delta_t -> 0: a = lim (delta_t -> 0) (delta_v / delta_t)
+delta_v = delta_v_x * i_hat + delta_v_y * j_hat, so a = a_x * i_hat + a_y * j_hat
+where a_x = dv_x / dt, a_y = dv_y / dt
+Graphically, acceleration is defined on the velocity vectors as delta_t -> 0
+delta_v is obtained using triangle law of vector addition
+As delta_t decreases, direction of delta_v changes and hence direction of acceleration changes
+In the limit delta_t -> 0, average acceleration becomes instantaneous acceleration
+theta = tan^(-1)(v_y / v_x) = tan^(-1)(4 / 3) = 53^degree with x-axis
+Suppose that an object is moving in the x-y plane and its acceleration a is constant.
+The average acceleration over any time interval equals this constant value.
+Let the velocity of the object be v_0 at time t = 0 and v at time t.
+The acceleration is given by a = (v - v_0) / t.
+Therefore, the velocity after time t is v = v_0 + a * t.
+In component form, v_x = v_0x + a_x * t and v_y = v_0y + a_y * t.
+Let r_0 and r be the position vectors of a particle at time 0 and t respectively.
+The average velocity over time t is (v_0 + v) / 2.
+The displacement is given by r − r_0 = ((v + v_0) / 2) * t.
+Substituting v = v_0 + a * t gives r = r_0 + v_0 * t + (1 / 2) * a * t^2.
+Taking the derivative of r gives dr / dt = v_0 + a * t, consistent with the velocity expression.
+The position components are x = x_0 + v_0x * t + (1 / 2) * a_x * t^2 and y = y_0 + v_0y * t + (1 / 2) * a_y * t^2.
+Motion in a plane can be treated as two independent one-dimensional motions.
+A particle starts at the origin at t = 0 with velocity 5.0 * i_hat m/s.
+The acceleration of the particle is (3.0 * i_hat + 2.0 * j_hat) m/s^2.
+The position after time t is r(t) = (5.0 * t + 1.5 * t^2) * i_hat + 1.0 * t^2 * j_hat.
+The x-coordinate is x(t) = 5.0 * t + 1.5 * t^2.
+The y-coordinate is y(t) = 1.0 * t^2.
+If x = 84 m, solving gives t = 6 s.
+At t = 6 s, the y-coordinate is y = 36.0 m.
+The velocity is v = (5.0 + 3.0 * t) * i_hat + 2.0 * t * j_hat.
+At t = 6 s, velocity is 23.0 * i_hat + 12.0 * j_hat m/s.
+The speed is sqrt(23^2 + 12^2) ≈ 26 m/s.
+A projectile is an object that is in motion under gravity after being launched.
+The horizontal motion of a projectile has no acceleration.
+The vertical motion of a projectile experiences constant acceleration due to gravity.
+Gravity causes an acceleration a = -g * j_hat.
+The initial velocity components are v_0x = v_0 * cos(theta_0) and v_0y = v_0 * sin(theta_0).
+The x-coordinate of a projectile is x = v_0 * cos(theta_0) * t.
+The y-coordinate of a projectile is y = v_0 * sin(theta_0) * t - (1 / 2) * g * t^2.
+The horizontal velocity remains constant during projectile motion.
+The vertical velocity changes as v_y = v_0 * sin(theta_0) - g * t.
+At the maximum height of the projectile, v_y = 0.
+The angle of the velocity vector at maximum height is theta = 0.
+To find the path of the projectile, we eliminate time from x(t) and y(t).
+The resulting equation is y = tan(theta_0) * x - (g / (2 * v_0^2 * cos^2(theta_0))) * x^2.
+This equation is of the form y = a * x + b * x^2.
+The path of a projectile is a parabola.
+The time taken to reach the maximum height is denoted by t_m.
+At maximum height, the vertical velocity V_y becomes zero.
+From the vertical motion equation: V_y = V_0 * sin(theta_0) - g * t = 0.
+Solving for t, we get t_m = V_0 * sin(theta_0) / g.
+The total flight time T_f is the time when the projectile returns to the same vertical level.
+To find T_f, set y = 0 in the equation of vertical displacement.
+This gives T_f = 2 * V_0 * sin(theta_0) / g.
+The total flight time T_f is twice the time to reach maximum height, i.e., T_f = 2 * t_m.
+This result is expected due to the symmetric nature of the parabolic trajectory.
+The maximum height h_m can be found by substituting t = t_m in the y(t) equation.
+Substitute and simplify: h_m = V_0 * sin(theta_0) * (V_0 * sin(theta_0) / g) - (g / 2) * (V_0 * sin(theta_0) / g)^2.
+This simplifies to h_m = (V_0^2 * sin^2(theta_0)) / (2 * g).
+The horizontal range R is the distance the projectile travels horizontally before returning to the same level.
+Horizontal range is calculated using R = V_0 * cos(theta_0) * T_f.
+Substituting for T_f gives R = V_0 * cos(theta_0) * (2 * V_0 * sin(theta_0) / g).
+This simplifies to R = (V_0^2 * sin(2 * theta_0)) / g.
+For a given V_0, the range R is maximum when sin(2 * theta_0) is maximum.
+The maximum value of sin(2 * theta_0) occurs when theta_0 = 45°.
+Hence, the maximum horizontal range is R_m = V_0^2 / g.
+Galileo stated that for elevations exceeding or falling short of 45° by equal angles, the ranges are equal.
+The range of a projectile is given by R = V_0^2 * sin(2 * theta_0) / g.
+For angles (45° + alpha) and (45° - alpha), 2 * theta_0 becomes (90° + 2alpha) and (90° - 2alpha).
+Since sin(90° + 2alpha) = sin(90° - 2alpha) = cos(2alpha), the ranges are equal.
+Thus, the projectile travels the same range for complementary angles about 45°.
+A hiker throws a stone horizontally from a cliff 490 m high with speed 15 m/s.
+Assume origin at the point of projection with x-axis horizontal and y-axis upward.
+The horizontal and vertical motions are treated independently.
+The horizontal motion is given by x(t) = x_0 + V_{0x} * t.
+The vertical motion is given by y(t) = y_0 + v_{0y} * t + (1/2) * a_y * t^2.
+Given: x_0 = y_0 = 0, v_{0y} = 0, a_y = -9.8 m/s^2, v_{0x} = 15 m/s.
+The stone reaches the ground when y = -490.
+Solving -490 = (1/2) * (-9.8) * t^2 gives t = 10 s.
+The horizontal velocity remains constant: v_x = 15 m/s.
+The vertical velocity after 10 seconds is v_y = 0 - 9.8 * 10 = -98 m/s.
+The total speed is sqrt(v_x^2 + v_y^2) = sqrt(15^2 + 98^2).
+This gives the speed of the stone at impact as 99 m/s.
+A cricket ball is thrown at 28 m/s at an angle of 30° above the horizontal.
+The maximum height of the cricket ball is given by h_m = (v_0 * sin(theta_0))^2 / (2 * g).
+Substituting values, the maximum height is h_m = (28 * sin(30))^2 / (2 * 9.8) = 10.0 m.
+The time taken to return to the same level is T_f = 2 * v_0 * sin(theta_0) / g = 2.9 s.
+The horizontal range of the projectile is R = (v_0^2 * sin(2 * theta_0)) / g.
+For v_0 = 28 m/s and theta_0 = 30°, the range R = 69 m.
+Uniform circular motion refers to motion in a circle with constant speed.
+The direction of velocity changes continuously in uniform circular motion.
+Even though speed is constant, the object accelerates due to changing direction.
+Acceleration in uniform circular motion is always directed towards the centre of the circle.
+The acceleration vector is called centripetal acceleration and has magnitude a_c = v^2 / R.
+The change in velocity vector delta v is perpendicular to the change in position delta r.
+In the limit as delta t -> 0, the acceleration vector becomes instantaneous and always points towards the centre.
+Centripetal acceleration is not a constant vector because its direction changes continuously.
+The magnitude of centripetal acceleration is a_c = v^2 / R.
+If angular displacement is delta theta, then angular speed w = delta theta / delta t.
+Linear speed v is related to angular speed by v = R * w.
+Centripetal acceleration in terms of angular speed is a_c = w^2 * R.
+The time period T is the time to complete one revolution in circular motion.
+The frequency nu is defined as nu = 1 / T.
+Linear speed can also be written as v = 2 * pi * R * nu.
+Angular speed is w = 2 * pi * nu.
+Centripetal acceleration in terms of frequency is a_c = 4 * pi^2 * R * nu^2.
+An insect moves in a circular groove of radius 12 cm completing 7 revolutions in 100 s.
+The angular speed of the insect is w = 2 * pi * 7 / 100 = 0.44 rad/s.
+The linear speed of the insect is v = w * R = 5.3 cm/s.
+The acceleration is not a constant vector because its direction changes with motion.
+The magnitude of acceleration remains constant and is a = w^2 * R = 2.3 cm/s^2.
+Scalar quantities have magnitude only, such as distance, mass, and temperature.
+Vector quantities have both magnitude and direction and follow vector algebra.
+Multiplying a vector by a real number scales its magnitude without changing direction.
+Vectors can be added graphically using the head-to-tail method or parallelogram method.
+Vector addition is commutative and associative.
+The null or zero vector has zero magnitude and no specific direction.
+Vector subtraction is defined as A - B = A + (-B).
+Any vector can be resolved into components along two non-parallel vectors.
+The unit vector in the direction of A is given by n_hat = A / |A|.
+Unit vectors i_hat, j_hat, k_hat point in x, y, z directions respectively.
+A vector A in 2D is written as A = A_x * i_hat + A_y * j_hat.
+Components are A_x = A * cos(theta), A_y = A * sin(theta).
+The magnitude of vector A is |A| = sqrt(A_x^2 + A_y^2).
+The angle made by A with x-axis is theta = arctan(A_y / A_x).
+For vector addition in components: R_x = A_x + B_x, R_y = A_y + B_y.
+Position vector in 2D is r = x * i_hat + y * j_hat.
+Displacement is delta r = r' - r = delta x * i_hat + delta y * j_hat.
+Average velocity is v_avg = delta r / delta t.
+Instantaneous velocity is the limit of average velocity as delta t -> 0.
+Velocity vector is always tangent to the object's path.
+Instantaneous velocity can be expressed as v = v_x * i_hat + v_y * j_hat + v_z * k_hat.
+Components of velocity are v_x = dx/dt, v_y = dy/dt, v_z = dz/dt.
+Average acceleration is a_avg = delta v / delta t.
+Instantaneous acceleration is a = dv/dt.
+Acceleration vector is a = a_x * i_hat + a_y * j_hat + a_z * k_hat.
+Component form of acceleration: a_x = d^2x/dt^2, a_y = d^2y/dt^2, a_z = d^2z/dt^2.
+Magnitude of acceleration is |a| = sqrt(a_x^2 + a_y^2).
+With constant acceleration, position is r = r_0 + v_0 * t + (1/2) * a * t^2.
+With constant acceleration, velocity is v = v_0 + a * t.
+In components: x = x_0 + v_0x * t + (1/2) * a_x * t^2.
+In components: v_x = v_0x + a_x * t, v_y = v_0y + a_y * t.
+Motion in a plane is a combination of two independent 1D motions.
+A projectile is an object in flight under gravity after being projected.
+Projectile motion equations: x = v_0 * cos(theta_0) * t, y = v_0 * sin(theta_0) * t - (1/2) * g * t^2.
+Velocity components: v_x = v_0 * cos(theta_0), v_y = v_0 * sin(theta_0) - g * t.
+The trajectory of a projectile is parabolic.
+Projectile path is given by: y = tan(theta_0) * x - (g * x^2) / (2 * v_0^2 * cos^2(theta_0)).
+Maximum height of a projectile: h_m = (v_0 * sin(theta_0))^2 / (2 * g).
+Time to reach maximum height: t_m = v_0 * sin(theta_0) / g.
+Total range of the projectile is R = (v_0^2 * sin(2 * theta_0)) / g.
+Uniform circular motion has constant speed but changing velocity due to direction change.
+Centripetal acceleration always points toward the center of the circular path.
+Centripetal acceleration depends on speed and radius: a_c = v^2 / R.
+Angular speed omega is defined as w = delta theta / delta t.
+Linear speed and angular speed are related by v = R * w.
+Centripetal acceleration in angular form: a_c = w^2 * R.
+An astronaut accidentally gets separated out of his small spaceship accelerating in interstellar space at a constant rate of 100 m/s^2.
+There are no nearby stars to exert gravitational force on him.
+The net force acting on the astronaut is zero once he is out of the spaceship.
+By the first law of motion, the acceleration of the astronaut is zero.
+The first law applies when the net external force on a body is zero.
+The second law of motion applies when there is a net external force on the body.
+Momentum is the product of mass m and velocity v, denoted by p = m * v.
+Momentum is a vector quantity.
+A greater force is needed to accelerate a heavy vehicle than a light one in the same time.
+A greater force is needed to stop a heavy object than a light object moving with the same speed.
+A person can catch a light stone more easily than a heavy stone falling from the same height.
+Mass affects the motion of a body under force.
+Speed affects the force needed to stop a body in a given time.
+The faster a bullet moves, the more force is needed to stop it.
+Momentum determines the effect of force on motion.
+The greater the change in momentum in a given time, the greater the force applied.
+A seasoned cricketer draws back his hands to catch a ball, reducing the force needed.
+A novice tries to stop the ball instantly and experiences more force, which may hurt.
+Force depends on both the change in momentum and the time duration.
+Faster changes in momentum require larger forces.
+The greater the rate of change of momentum, the greater is the force.
+Momentum change is essential for force and motion relation.
+A fixed force acting for equal times on two different masses gives the same momentum.
+Heavier bodies acquire less speed than lighter ones under the same force and time.
+A rotating stone has fixed momentum magnitude but changing direction.
+Force is needed to change the direction of momentum.
+The string provides the force to rotate the stone in a circle.
+Faster rotation or smaller radius increases the required force.
+The rate of change of momentum vector relates to the applied force.
+F = k * (Δp / Δt), where Δp is change in momentum and Δt is time interval.
+In the limit Δt -> 0, Δp / Δt becomes dp/dt, giving F = k * dp/dt.
+For constant mass m, dp/dt = m * a.
+Therefore, F = k * m * a.
+Taking k = 1, the second law becomes F = m * a.
+The SI unit of force is newton: 1 N = 1 kg * m/s^2.
+F = 0 implies a = 0, which is consistent with the first law.
+The second law is a vector law with components Fx = m * ax, Fy = m * ay, Fz = m * az.
+A force not parallel to velocity changes only the velocity component along the force.
+Perpendicular components of velocity remain unaffected.
+In projectile motion, vertical force does not affect horizontal velocity.
+The second law applies to point particles and systems of particles.
+F is the total external force, and a is the acceleration of the system’s center of mass.
+Internal forces are not included in F.
+The second law is a local relation: force determines acceleration at the same time and place.
+A dropped stone from a moving train has no memory of the previous acceleration.
+If air resistance is ignored, the stone experiences no horizontal force after release.
+The motion of a particle of mass m is described by y = u * t + (1/2) * g * t^2.
+Velocity is v = dy/dt = u + g * t.
+Acceleration is a = dv/dt = g.
+The force acting on the particle is F = m * a = m * g.
+Impulse is defined as the product of force and time duration.
+Impulse equals the change in momentum.
+Impulse = Force * time = Change in momentum.
+A batsman hits back a ball in the direction of the bowler without changing its speed of 12 m/s.
+The mass of the ball is 0.15 kg.
+Initial momentum = -0.15 * 12 = -1.8 kg * m/s.
+Final momentum = 0.15 * 12 = 1.8 kg * m/s.
+Change in momentum = 1.8 - (−1.8) = 3.6 N·s.
+Impulse imparted to the ball is 3.6 N·s in the direction from batsman to bowler.
+Newton's third law states that to every action, there is always an equal and opposite reaction.
+Forces always occur in pairs.
+Force on body A by body B is equal and opposite to the force on body B by body A.
+Action and reaction mean forces; using different terms can confuse.
+Both action and reaction are simultaneous and equal in magnitude, opposite in direction.
+There is no cause-effect relation between action and reaction; both forces occur at the same time.
+F_AB = -F_BA
+Only one of the two forces is relevant to the motion of a single body.
+For the full system (A + B), the internal forces cancel.
+Two identical billiard balls strike a rigid wall with the same speed but at different angles.
+In case (a), initial momentum components are p_x = m * u and p_y = 0.
+Final momentum components are p_x = -m * u and p_y = 0.
+Impulse in x-direction = -2 * m * u; Impulse in y-direction = 0.
+Impulse and force are in the same direction.
+Force on the ball by the wall is normal to the wall, along negative x-direction.
+Force on the wall by the ball is normal to the wall, along positive x-direction.
+In case (b), p_x_initial = m * u * cos(30^°), p_y_initial = -m * u * sin(30^°).
+p_x_final = -m * u * cos(30^°), p_y_final = -m * u * sin(30^°).
+Only p_x changes after collision; p_y remains the same.
+x-component of impulse = -2 * m * u * cos(30^°)
+y-component of impulse = 0
+Impulse direction is normal to the wall, same as in case (a).
+Ratio of impulse magnitudes in (a) and (b) is 2 / sqrt(3) ≈ 1.2
+The second and third laws lead to the law of conservation of momentum.
+When a bullet is fired from a gun, the force on the bullet is F and on the gun is -F.
+Both forces act for a time interval Δt.
+F * Δt is the change in bullet's momentum, -F * Δt is the change in gun's momentum.
+If initially both were at rest, then p_b + p_g = 0.
+Total momentum of bullet and gun system is conserved.
+In an isolated system, mutual forces can change individual momenta.
+Equal and opposite mutual forces cause momentum changes that cancel in pairs.
+Total momentum remains unchanged; this is the law of conservation of momentum.
+The total momentum of an isolated system of interacting particles is conserved.
+Consider two bodies A and B with initial momenta p_A and p_B.
+After collision, their final momenta are p'_A and p'_B.
+By second law, F_AB * Δt = p'_A - p_A, and F_BA * Δt = p'_B - p_B.
+Since F_AB = -F_BA, we get p'_A + p'_B = p_A + p_B.
+Total final momentum equals total initial momentum, even for inelastic collisions.
+In elastic collisions, kinetic energy is also conserved.
+Equilibrium of a particle means the net external force on it is zero.
+If F_1 and F_2 act on a particle, equilibrium requires F_1 = -F_2.
+For three concurrent forces F_1, F_2, and F_3, equilibrium requires F_1 + F_2 + F_3 = 0.
+The resultant of two forces must be equal and opposite to the third force.
+Three forces in equilibrium can be represented by the sides of a triangle with arrows in the same sense.
+This generalizes to any number of forces: if F₁, F₂, ..., Fₙ form a closed polygon, the particle is in equilibrium.
+Equation (4.11) implies F_1 + F_2 + F_3 = 0 and F_x + F_y + F_z = 0 and F_ix + F_iy + F_iz = 0.
+A mass of 6 kg is suspended by a 2 m rope.
+A 50 N horizontal force is applied at the midpoint P of the rope.
+In equilibrium, the tension T_2 in the vertical rope is T_2 = 6 * 10 = 60 N.
+At point P, the three forces are T_1, T_2, and the 50 N horizontal force.
+Horizontal equilibrium: T_1 * sin(theta) = 50 N.
+Vertical equilibrium: T_1 * cos(theta) = 60 N.
+tan(theta) = 50 / 60 = 5 / 6
+theta = tan^-1(5 / 6) = 40^°
+Answer does not depend on rope length or point of application of the horizontal force.
+In mechanics, we encounter several kinds of forces.
+The gravitational force is pervasive and acts on every object on Earth.
+Gravity also governs the motion of celestial bodies.
+Gravitational force can act at a distance without any intervening medium.
+All other common forces in mechanics are contact forces.
+Contact forces arise when objects are in contact, either solid or fluid.
+When a book rests on a table or bodies are connected by rods and hinges, mutual contact forces arise.
+These contact forces obey Newton’s third law for each pair of bodies.
+The component of a contact force normal to the surfaces is called normal reaction.
+The component of a contact force parallel to the surfaces is called friction.
+Contact forces also arise when solids are in contact with fluids.
+A solid immersed in a fluid experiences an upward buoyant force equal to the weight of the displaced fluid.
+Viscous force and air resistance are other examples of contact forces.
+Tension in a string and spring force are two other common forces in mechanics.
+A spring compressed or stretched exerts a restoring force proportional to its displacement.
+This force is expressed as F = -k * x, where k is the force constant and x is displacement.
+The negative sign indicates the force is opposite to displacement.
+For an inextensible string, the force constant k is very large.
+The restoring force in a string is called tension.
+A string of negligible mass is assumed to have constant tension T throughout.
+There are four fundamental forces in nature.
+Weak and strong forces are not relevant in macroscopic mechanics.
+Only gravitational and electrical forces are relevant in mechanical contexts.
+Contact forces in mechanics fundamentally originate from electrical forces.
+This seems surprising as we deal with uncharged, non-magnetic bodies in mechanics.
+At the microscopic level, bodies are made of nuclei and electrons—charged constituents.
+Elasticity, molecular collisions, and impacts can be traced to electrical forces between these constituents.
+Despite their complex microscopic origin, contact forces are treated as distinct empirical forces in mechanics.
+Let us consider a body of mass m at rest on a horizontal table.
+Its weight mg is balanced by the normal reaction R of the table.
+Suppose a horizontal force F is applied to the body.
+If F were the only external force, the body would accelerate with F/m.
+However, the body stays at rest because another horizontal force opposes F.
+This opposing force is friction, denoted f, acting parallel to the contact surface.
+This friction is specifically static friction and denoted by f_s.
+Static friction arises only when an external force is applied.
+When there is no applied force, there is no static friction.
+As the applied force increases, f_s increases to match it and prevent motion.
+Static friction opposes impending motion, not actual motion.
+Impending motion means motion that would occur if friction were absent.
+If applied force exceeds a certain limit, the body begins to move.
+This limit is the maximum value of static friction (f_s)_max.
+It is experimentally found that (f_s)_max = mu_s * N
+mu_s is the coefficient of static friction, dependent on the surface pair.
+The law of static friction is written as f_s ≤ mu_s * N
+If F > (f_s)_max, the body slides and kinetic friction begins to act.
+Kinetic friction, f_k, opposes relative motion between surfaces in contact.
+Kinetic friction is also independent of contact area and nearly independent of velocity.
+Kinetic friction satisfies f_k = mu_k * N
+mu_k is the coefficient of kinetic friction and mu_k < mu_s
+Once motion begins, acceleration = (F - f_k) / m
+If F = f_k, the body moves with constant velocity.
+If F is removed, acceleration = -f_k / m and the body eventually stops.
+Laws of friction are empirical, not fundamental like gravity or electromagnetism.
+They are nevertheless useful for solving mechanical problems.
+When two bodies are in contact, each exerts a contact force on the other.
+Friction is the parallel component of this contact force.
+Friction opposes impending or actual relative motion between surfaces.
+Friction depends on relative motion, not absolute motion.
+Consider a box at rest in an accelerating train compartment.
+Though at rest relative to the train, it accelerates with the train.
+The only horizontal force on the box is friction.
+Without friction, the box would stay in place and hit the train's back wall.
+Static friction provides the required acceleration to the box.
+Thus, static friction keeps the box stationary relative to the train.
+Determine the maximum acceleration a train can have such that a box does not slip.
+The coefficient of static friction between box and floor is mu_s = 0.15
+Using ma = f_s ≤ mu_s * N = mu_s * m * g
+We get a_max = mu_s * g = 0.15 * 10 m * s^-2 = 1.5 m * s^-2
+A 4 kg block is on a horizontal surface gradually inclined.
+It begins to slide when angle θ = 15^degree
+For a block on an inclined plane, m * g * sin(theta) = f_s and m * g * cos(theta) = N
+At the point of sliding, f_s = (f_s)_max = mu_s * N
+Then, mu_s = tan(theta_max) = tan(15^degree) = 0.27
+The coefficient of static friction is thus mu_s = 0.27
+A 3 kg block hangs from a string over a pulley, connected to a 20 kg trolley.
+String is inextensible and pulley is smooth, so both masses accelerate equally.
+Apply Newton’s second law to the block: 30 - T = 3a
+Apply Newton’s second law to the trolley: T - f_k = 20a
+Kinetic friction f_k = mu_k * N = 0.04 * 200 = 8 N
+Thus, T - 8 = 20a
+Solving 30 - T = 3a and T - 8 = 20a gives a = 0.96 m * s^-2
+Substitute to get T = 27.1 N
+A ring or a sphere rolling without slipping on a horizontal plane ideally suffers no friction.
+At every instant during rolling, there is just one point of contact with no relative motion.
+In this ideal case, static or kinetic friction is zero and the body should roll with constant velocity.
+In practice, rolling resistance occurs and some applied force is needed to maintain rolling.
+Rolling friction is significantly smaller than sliding or static friction for the same weight.
+This is why the invention of the wheel was a major breakthrough in human history.
+Rolling friction originates from momentary deformation of surfaces, creating a finite contact area.
+This contact area leads to a component of contact force that opposes motion.
+In machines, friction is often undesirable as it causes energy loss by heat dissipation.
+Lubricants are used to reduce kinetic friction in moving machine parts.
+Ball bearings reduce friction since rolling friction is much smaller than sliding friction.
+A thin air cushion between moving surfaces is another method to minimize friction.
+Despite energy loss, friction is critical in practical systems like brakes in machines and vehicles.
+Kinetic friction allows vehicles to stop by converting kinetic energy into heat.
+Static friction enables walking by providing grip between feet and the ground.
+On slippery surfaces, lack of friction makes walking or driving impossible.
+Friction between tyres and road provides the external force to accelerate a car.
+A body moving in a circle of radius R with speed v has acceleration v^2 / R directed toward the center.
+The centripetal force f_c = m * v^2 / R provides this acceleration.
+For a rotating stone tied to a string, centripetal force is provided by tension.
+In planetary motion, gravitational force supplies the centripetal force.
+On a flat circular road, friction supplies the centripetal force to a turning car.
+The contact force along the road surface, i.e., static friction, causes centripetal acceleration.
+On a banked road, frictional demand can be reduced by banking the road at angle theta.
+For no vertical acceleration, net vertical force must be zero.
+This gives N * cos(theta) = mg + f * sin(theta)
+Centripetal force is provided by N * sin(theta) + f * cos(theta) = m * v^2 / R
+Assuming limiting friction, we set f = mu_s * N
+This yields N = mg / (cos(theta) - mu_s * sin(theta))
+Substitute N into the second equation to get v^2 = R * g * (sin(theta) + mu_s * cos(theta)) / (cos(theta) - mu_s * sin(theta))
+Thus, v_max = [(R * g * (1 + mu_s * tan(theta))) / (1 - mu_s * tan(theta))]^1/2
+When mu_s = 0, v_0 = (R * g * tan(theta))^1/2
+At speed v_0, friction is not needed to provide centripetal force.
+For v < v_0, friction acts up the slope.
+A car can be parked only if tan(theta) ≤ mu_s
+A cyclist moves at 18 km/h (5 m * s^-1) on a flat circular path of radius 3 m.
+The condition to prevent slipping is v^2 ≤ mu_s * R * g
+Given mu_s = 0.1 and g = 9.8 m * s^-2, we get v^2 ≤ 2.94 m^2 * s^-2
+Actual v^2 = 25 m^2 * s^-2, so the cyclist will slip.
+For a racetrack of radius 300 m and banking angle 15^degree, mu_s = 0.2
+The optimum speed v_0 = (R * g * tan(theta))^1/2 = 28.1 m * s^-1
+Maximum permissible speed v_max = [(R * g * (1 + mu_s * tan(theta))) / (1 - mu_s * tan(theta))]^1/2 = 38.1 m * s^-1
+Newton’s laws form the foundation for solving problems in mechanics.
+In assemblies of bodies, internal and external forces must be considered.
+Laws can be applied to any part of the system if all relevant forces are included.
+Newton's Third Law: Force on A by B equals and opposes force on B by A.
+Second Law: Net force equals rate of change of momentum.
+Action and reaction act on different bodies and do not cancel.
+Internal forces within a system cancel out when summed.
+Law of Conservation of Momentum: Total momentum of isolated system remains constant.
+Friction opposes impending or actual relative motion between contact surfaces.
+Friction is the tangential component of the contact force.
+Static friction opposes impending motion and satisfies f_s ≤ (f_s)_max = mu_s * N
+Kinetic friction opposes actual motion and satisfies f_k = mu_k * N
+mu_s and mu_k are constants depending on surfaces in contact.
+Typically, mu_k < mu_s for given pair of surfaces.
+Momentum p has units kg * m * s^-1 and dimension [M L T^-1]
+Force F has units N and dimension [M L T^-2]
+Normal force N has same units and dimensions as force.
+Static friction f_s ≤ mu_s * N
+Kinetic friction f_k = mu_k * N
